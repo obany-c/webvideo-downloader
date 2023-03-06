@@ -32,4 +32,4 @@ EXPOSE 18888
 VOLUME ["/vd/temp"]
 VOLUME ["/vd/videos"]
 VOLUME ["/vd/logs"]
-ENTRYPOINT ["/webvideo-downloader/docker/entrypoint.sh"]
+ENTRYPOINT ["/vd/docker/entrypoint.sh"]
