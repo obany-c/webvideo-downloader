@@ -76,4 +76,4 @@ tempFilePath = "../temp/"
 videoFilePath = "../videos/"
 
 # 日志保存路径
-logPath = './logs/'
+logPath = '../logs/'
